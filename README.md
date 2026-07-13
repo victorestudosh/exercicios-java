@@ -1,2 +1,2 @@
-# exerciciosjavaeclipse100keynes2
+# exercicios-java
 100 Exercícios Java Basic Eclipse
