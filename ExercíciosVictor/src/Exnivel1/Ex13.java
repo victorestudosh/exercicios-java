@@ -13,8 +13,6 @@ public class Ex13 {
 		for (int i = 1; i <= numero1; i++) {
             resultado *= i;
         }
-
-		
 		JOptionPane.showMessageDialog(null, "O valor do fatorial é = " + resultado, "Valor do Fatorial", JOptionPane.PLAIN_MESSAGE, null);
 	}
 }
