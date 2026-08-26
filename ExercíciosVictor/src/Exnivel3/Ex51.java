@@ -7,7 +7,8 @@ public class Ex51 {
 	public static void main(String[] args) {
 		String senha;
 		String classificacao;
-
+		
+		JOptionPane.showMessageDialog(null, "Validar Senha Forte", "Ex51", JOptionPane.INFORMATION_MESSAGE, null);
 		while (true) {
 			senha = JOptionPane.showInputDialog(null, "Digite uma senha:\n(Mínimo de 6 caracteres)", "Cadastro de Senha", JOptionPane.PLAIN_MESSAGE);
 
