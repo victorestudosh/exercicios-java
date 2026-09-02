@@ -4,6 +4,6 @@
 /**
  * 
  */
-module ExercíciosCuteCute {
+module ExercíciosVictor {
 	requires java.desktop;
 }
