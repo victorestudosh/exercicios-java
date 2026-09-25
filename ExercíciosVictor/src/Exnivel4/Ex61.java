@@ -23,7 +23,7 @@ public class Ex61 {
 			} catch (NumberFormatException e) {
 				JOptionPane.showMessageDialog(null, "Digite uma opção de 1 a 5.");
 				continue;
-			}
+			} 
 			switch (opcao) {
 			case 1:
 				String nome = JOptionPane.showInputDialog(null, "Digite o nome do produto:");
