@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Ex65 {
 	public static void main(String[] args) {
-		Ex65Funcionario funcionario = new Ex65Funcionario("Jubiscreudio", "Dotum", "02/02/2026", "2.000", 7);
+		Ex65Funcionario funcionario = new Ex65Funcionario("Jubiscreudio", "Dotum", "02/02/2026", 2.000, 7);
 		
 		StringBuilder sb = new StringBuilder("Informações Do Funcionário: \n\n");
 		
