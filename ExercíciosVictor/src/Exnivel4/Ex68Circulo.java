@@ -26,5 +26,4 @@ public class Ex68Circulo extends Ex67Forma {
 	Integer angulosObtusos() {
 		return 0;
 	}
-	
 }
