@@ -1,0 +1,25 @@
+iPhone 17;6000.0
+Samsung Galaxy;3500.0
+iPhone 17;6000.0
+Samsung Galaxy;3500.0
+iPhone 17;6000.0
+Samsung Galaxy;3500.0
+Notebook;4500.0
+iPhone 17;6000.0
+
+Samsung Galaxy;3500.0
+
+Notebook;4500.0
+
+iPhone 17, valor:6000.0
+
+Samsung Galaxy, valor: 3500.0
+
+Notebook, valor: 4500.0
+
+iPhone 17, valor:6000.0
+
+Samsung Galaxy, valor: 3500.0
+
+Notebook, valor: 4500.0
+
